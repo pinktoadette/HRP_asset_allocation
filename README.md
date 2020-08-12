@@ -1,8 +1,6 @@
-# Markowitz Asset Allocation and Alternatives
+# Alternative to Efficient Frontier
 
-These notebooks are only to examine the individual theories and its implementation specifically.
-
-The traditional markowitz efficient frontier vs Hierarchical Risk Parity based on Lopez de Prado.
+This notebook is to examine alternative to traditional markowitz efficient frontier by looking at Hierarchical Risk Parity based on Lopez de Prado.
 
 ### Markowitz Efficient Frontier
 Traditional efficient frontier looks at the standard deviation to returns of a security and optimizes the weights.
